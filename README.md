@@ -50,13 +50,13 @@ src/
 1. 克隆仓库：
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/CloudTide4746/FastPizza
    ```
 
 2. 进入项目目录：
 
    ```bash
-   cd fast-react-pizza
+   cd FastPizza
    ```
 
 3. 安装依赖：
